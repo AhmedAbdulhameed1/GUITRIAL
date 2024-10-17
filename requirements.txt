@@ -1,0 +1,16 @@
+streamlit
+nbformat
+scikit-learn
+Pillow
+numpy
+pandas
+matplotlib
+seaborn
+openpyxl
+plotly
+nbconvert
+imbalanced-learn
+xgboost
+altair
+scipy
+lxml[html_clean]
